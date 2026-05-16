@@ -4,6 +4,8 @@ a lightweight telegram selfbot built on pyrogram. runs on your own
 account, listens for messages you send that start with a configurable
 prefix, and dispatches to one of 24 commands.
 
+telebot is designed to be extremely modular, so you can add your own features extremely conveniently.
+
 ## features
 
 - 24 modular commands across general, games, crypto, settings
